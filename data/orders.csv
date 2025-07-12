@@ -1,0 +1,4 @@
+order_id,customer_id,customer_name,email,product_id
+1,101,John Doe,john@example.com,201
+2,102,Jane Smith,jane@example.com,202
+3,103,Bob Brown,bob@example.com,203

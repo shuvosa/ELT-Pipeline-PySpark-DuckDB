@@ -1,0 +1,4 @@
+order_id,customer_id,customer_name,email,product_id,product_name,category
+1,101,John Doe,john@example.com,201,Laptop,Electronics
+2,102,Jane Smith,jane@example.com,202,Headphones,Electronics
+3,103,Bob Brown,bob@example.com,203,Book,Books
